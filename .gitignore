@@ -28,3 +28,6 @@ public/Nitin-profile.png
 *.njsproj
 *.sln
 *.sw?
+
+.vercel
+.env*
