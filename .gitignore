@@ -1,0 +1,30 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Unused photo drafts (not referenced by the site)
+public/Casual-Picture.png
+public/Casual-Picture-Blue.png
+public/Nitin-profile.png
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.claude
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
